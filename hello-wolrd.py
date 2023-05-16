@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 21 12:34:23 2023
-
-@author: pc
 """
 # Mavzu: print()funksiyasi.
 # Sana: 21/03/2023
